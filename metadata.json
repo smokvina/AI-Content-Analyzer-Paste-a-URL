@@ -1,0 +1,5 @@
+{
+  "name": "AI Content Analyzer",
+  "description": "An application that uses Gemini with Google Search grounding to perform a deep analysis of content from a URL, generating FAQs, content insights, optimized rewrites, and identifying areas for human intervention.",
+  "requestFramePermissions": []
+}
